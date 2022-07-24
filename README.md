@@ -1,6 +1,6 @@
 👋 Hi, I’m @NikitaZZZ
 
-👀 I’m interested in Web Development
+👀 I’m interested in Front-End
 
 🌱 I’m currently learning JavaScript (+Vue and React)
 
