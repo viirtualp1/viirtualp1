@@ -2,7 +2,7 @@
 
 👀 I’m interested in Front-End
 
-🌱 I’m currently learning JavaScript (+Vue and React)
+🌱 I’m currently programming in TypeScript (Vue, React)
 
 📫 How to reach me @virtualp1 (Telegram)
 
