@@ -6,3 +6,4 @@
 
 📫 How to reach me @virtualp1 (Telegram)
 
+🌐 My [LinkedIn](https://www.linkedin.com/in/virtualp1/)
