@@ -1,6 +1,6 @@
 👋 Hi, I’m Nikita 
 
-👀 I’m interested in Front-End
+👀 I’m interested in Front-End and Back-End
 
 🌱 Currently immersed in Vue (Nuxt), React (Next), TypeScript
 
