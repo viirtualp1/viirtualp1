@@ -4,4 +4,6 @@
 
 🌱 Currently immersed in Vue, React (TypeScript)
 
+✍🏻 Learning Nest.js, TypeORM, Docker
+
 📫 How to reach me [@virtualp1](http://t.me/virtualp1)
