@@ -2,7 +2,7 @@
 
 👀 I’m interested in Front-End
 
-🌱 Currently immersed in Vue, React (TypeScript)
+🌱 Currently immersed in Vue (Nuxt), React (Next), TypeScript
 
 ✍🏻 Learning Nest.js, TypeORM, Docker
 
